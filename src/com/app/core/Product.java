@@ -1,4 +1,4 @@
-import java.util.Objects;
+package com.app.core;
 
 public class Product {
   private String name;

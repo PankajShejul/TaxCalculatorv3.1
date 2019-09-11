@@ -1,9 +1,7 @@
-import org.junit.Before;
-import org.junit.jupiter.api.BeforeEach;
+import com.app.core.Bill;
+import com.app.core.Product;
+import com.app.core.ProductBasket;
 import org.junit.jupiter.api.Test;
-import org.junit.runner.RunWith;
-import org.junit.runners.JUnit4;
-
 
 
 class BillTest {

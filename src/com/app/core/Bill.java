@@ -1,3 +1,5 @@
+package com.app.core;
+
 import java.util.List;
 
 public class Bill {
