@@ -1,3 +1,5 @@
+package test.com.app.core;
+
 import com.app.core.Bill;
 import com.app.core.Product;
 import com.app.core.ProductBasket;

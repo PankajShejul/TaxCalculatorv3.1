@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0baa7b96-170f-4275-926c-ac5517278397" name="Default Changelist" comment="" />
+    <list default="true" id="0baa7b96-170f-4275-926c-ac5517278397" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/app/core/BillTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +43,10 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test.com.app.core" />
+      <recent name="com.app.core" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -59,8 +66,8 @@
   <component name="RunManager" selected="JUnit.BillTest.displayProduct">
     <configuration name="BillTest.displayProduct" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
       <module name="GstCalculator_v3.1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BillTest" />
+      <option name="PACKAGE_NAME" value="test.com.app.core" />
+      <option name="MAIN_CLASS_NAME" value="test.com.app.core.BillTest" />
       <option name="METHOD_NAME" value="displayProduct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -69,8 +76,8 @@
     </configuration>
     <configuration name="BillTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GstCalculator_v3.1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BillTest" />
+      <option name="PACKAGE_NAME" value="test.com.app.core" />
+      <option name="MAIN_CLASS_NAME" value="test.com.app.core.BillTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,8 +85,8 @@
     </configuration>
     <configuration name="BillTest.displayProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GstCalculator_v3.1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BillTest" />
+      <option name="PACKAGE_NAME" value="test.com.app.core" />
+      <option name="MAIN_CLASS_NAME" value="test.com.app.core.BillTest" />
       <option name="METHOD_NAME" value="displayProduct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -105,6 +112,14 @@
       <option name="presentableId" value="Default" />
       <updated>1567499410513</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1568188323616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568188323616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +134,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GstCalculator_v3_1$BillTest.ic" NAME="BillTest Coverage Results" MODIFIED="1567591068214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
